@@ -17,64 +17,64 @@ object Constants {
 
         val que1 = Question(1, "Мин сирэйим аламас таас курдук оннук учугэй",
         R.drawable.first,
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            4)
+            "Сардаҥа",
+            "Күн",
+            "Муус",
+            "Ый",
+            3)
         questionsList.add(que1)
         val que2 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
         R.drawable.second,
         "Аньыы",
         "Батыйа",
-        "Бэдэр",
+        "Бидилгэх",
         "Айа",
         4)
         questionsList.add(que2)
-        val que3 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
-            R.drawable.second,
-            "Аньыы",
-            "Батыйа",
-            "Бэдэр",
-            "Айа",
-            4)
+        val que3 = Question(3, "Эргэл-дьэргэл эккири турарын ким да булан тутан ылбат?",
+            R.drawable.third,
+            "Куйаар Салгына",
+            "Итии Салгын",
+            "Тымныы Салгын",
+            "Киһи тыына",
+            2)
         questionsList.add(que3)
-        val que4 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
-            R.drawable.second,
-            "Аньыы",
-            "Батыйа",
+        val que4 = Question(4, "эргийэр-эргийэр - мэйиитэ иирбэт, көрөр-көрөр - бу турар диэн булбат?",
+            R.drawable.four,
+            "Ытык",
+            "Холорук",
             "Бэдэр",
-            "Айа",
-            4)
+            "Эбэ балыга",
+            1)
         questionsList.add(que4)
-        val que5 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
-            R.drawable.second,
-            "Аньыы",
-            "Батыйа",
-            "Бэдэр",
-            "Айа",
+        val que5 = Question(5, "Эдьигээнтэн эриэн таба эргийбит?",
+            R.drawable.five,
+            "Эмэгэт былыт",
+            "Саар былыт",
+            "Тыал былыта",
+            "Итир былыт",
             4)
         questionsList.add(que5)
-        val que6 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
+        val que6 = Question(6, "эрбэх иһигэр эчики чуоҕур баар үһү?",
             R.drawable.second,
-            "Аньыы",
-            "Батыйа",
+            "Хаарты",
+            "Ынах",
             "Бэдэр",
-            "Айа",
-            4)
+            "Баарыс онньуу",
+            1)
         questionsList.add(que6)
-        val que7 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
+        val que7 = Question(7, "Үрүҥ аҕабыт баттаабыт бэчиэтэ хаһан даҕаны сүппэт",
             R.drawable.second,
-            "Аньыы",
+            "Аат",
             "Батыйа",
             "Бэдэр",
-            "Айа",
-            4)
+            "Бил",
+            1)
         questionsList.add(que7)
-        val que8 = Question(2, "Көрө сытан сүүрүккэ аньар баар?",
+        val que8 = Question(8, "Көрө сытан сүүрүккэ аньар баар?",
             R.drawable.second,
             "Аньыы",
-            "Батыйа",
+            "Билигэс",
             "Бэдэр",
             "Айа",
             4)

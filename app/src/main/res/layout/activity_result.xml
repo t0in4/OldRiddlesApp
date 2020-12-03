@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="Result"
+        android:text="Түмүк"
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:textStyle="bold" />
@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Hey, Congratulations!"
+        android:text="Эҕэрдэ!"
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:textStyle="bold"/>
@@ -61,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:background="@android:color/white"
-        android:text="FINISH"
+        android:text="Элиэрдик этэҥҥэ олор!"
         android:textColor="@color/colorPrimary"
         android:textSize="18sp"
         android:textStyle="bold" />
